@@ -1,0 +1,8 @@
+.video{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: -50px;
+}
+  
